@@ -1,0 +1,8 @@
+vtiger\tests\LoginTest.class
+vtiger\Pages\LoginPage.class
+vtiger\tests\LeadsTest.class
+vtiger\Pages\HeaderPage.class
+vtiger\Config\vTigerConfig.class
+vtiger\Pages\HomePage.class
+vtiger\tests\BaseTest.class
+vtiger\commonFunctions\functions.class
